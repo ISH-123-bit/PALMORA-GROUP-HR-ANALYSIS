@@ -39,4 +39,5 @@ In this analysis, I was able to take a number of steps in order to showcase my i
   6) The amount to be paid as bonuses to individual employees are reflected in the chart report
   7) The total amount to be paid to individual employees (Salary inclusive of bonus) are reflected in the chart report
   8) Total Amount to be paid out per region and company-wide is reflected in the chart report through my github link supplied
- 
+Below is my github link 
+https://github.com/ISH-123-bit/PALMORA-GROUP-HR-ANALYSIS.git
