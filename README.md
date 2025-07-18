@@ -1,4 +1,5 @@
 # PALMORA-GROUP-HR-ANALYSIS
+[Gender by departments.docx](https://github.com/user-attachments/files/21319076/Gender.by.departments.docx)
 Hi! everyone and all techies. This is my insight on the Palmora Group Human Resources Analysis. 
 In this analysis, I was able to take a number of steps in order to showcase my insight. Some steps taken are as follows:
 1) I started by cleaning the data based on instructions and discretion as follows:
